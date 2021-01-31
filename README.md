@@ -1,0 +1,1 @@
+# Exemplo de conexão a api pública do Odoo
